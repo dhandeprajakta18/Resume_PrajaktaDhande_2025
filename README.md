@@ -20,13 +20,6 @@ with a strong foundation in web technologies and software development principles
 
 ---
 
-## 🌱 Currently Learning
-
-- Advanced Spring Security (JWT, OAuth2)
-- Docker & Deployment on Cloud
-- TypeScript and Next.js
-
----
 
 ## 📬 Let's Connect
 
