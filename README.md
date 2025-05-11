@@ -1,7 +1,7 @@
 # 👩‍💻 Prajakta Dhande — Full Stack Developer
 
-Welcome to my resume repository! I’m **Prajakta Dhande**, a passionate and dedicated Full Stack Developer 
-with a strong foundation in web technologies and software development principles. I thrive in building robust, scalable applications and learning new tech to solve real-world problems.
+Welcome to my resume repository! I’m **Prajakta Dhande**, a passionate and dedicated Full Stack Developer with
+a strong foundation in web technologies and software development principles. I enjoy building user-centric applications with clean, maintainable code.
 
 ---
 
@@ -13,23 +13,28 @@ with a strong foundation in web technologies and software development principles
 
 ## 💼 Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap
-- **Backend:** Java, Spring Boot, MySQL
-- **Tools & Platforms:** Git, GitHub, Postman, VS Code, IntelliJ
-- **Others:** REST APIs, Responsive Design, JWT Authentication
+- **Programming Languages:** Java (Core), JavaScript (ES6+)
+- **Web Technologies:** HTML5, CSS3, JavaScript, React.js, Bootstrap
+- **Frontend Development:** React.js, Context API
+- **Backend & APIs:** RESTful APIs, Fetch API, Spring Boot
+- **Database Management:** MySQL, SQL
+- **Version Control:** Git, GitHub
+- **UI/UX & Design:** Responsive Design, CSS, Canva, Bootstrap, Figma (Basic)
+- **Development Tools:** VS Code, npm, Maven, Postman, Jira
+- **Additional Skills:** OOPs Concepts, Problem Solving, Debugging, Deployment using GitHub Pages/Render
+- **Productivity Tools:** Microsoft Office (Word, PowerPoint, Excel, etc.)
 
 ---
 
-
 ## 📬 Let's Connect
 
-- 📧 Email: prajaktadhande99@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/prajakta-dhande](https://www.linkedin.com/in/prajakta-dhande)  
-- 🌐 Portfolio: (Add your portfolio URL here if you have one)
+- 📧 Email: dhandeprajakta123@gmail.com 
+- 💼 LinkedIn: [linkedin.com/in/prajakta-dhande](https://www.linkedin.com/in/prajakta-dhande-167357320)
+- - 🌐 GitHub: [github.com/dhandeprajakta18](https://github.com/dhandeprajakta18) 
+
 
 ---
 
 ## 🚀 About This Repository
 
-This repository is a simplified hub for my professional resume and a quick overview of my technical skills and goals. 
-Feel free to check out my resume above, and don’t hesitate to reach out for collaboration or opportunities!
+This repository serves as a central location for my professional resume and technical skills. Feel free to download my resume above and reach out for job opportunities or collaboration!
